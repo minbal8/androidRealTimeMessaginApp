@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorSecondaryDark">#080808</color>
+    <color name="colorAccent">#ff8200</color>
+    <color name="colorBackground">#777</color>
+    <color name="colorButtonOutline">#777</color>
+    <color name="color_search">#99ffffff</color>
+    <color name="gradient_start">#999</color>
+    <color name="gradient_end">#444</color>
+
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/temporary_functions"
+        android:title="Laboratory work tasks"/>
+
+    <item
+        android:id="@+id/update_account_info"
+        android:title="Update account information"/>
+
+    <item
+        android:id="@+id/log_out"
+        android:title="Log Out"/>
+</menu>

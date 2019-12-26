@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "454657045018",
+    "firebase_url": "https://realtimemessagingapp-5a198.firebaseio.com",
+    "project_id": "realtimemessagingapp-5a198",
+    "storage_bucket": "realtimemessagingapp-5a198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454657045018:android:97ad55b11636a7ff8cd7a3",
+        "android_client_info": {
+          "package_name": "com.ktuedu.rtMessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454657045018-67u0jlga0tct9kag44t17p320ckfpibf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCFdKlbGGz4_C3oae4c_dnTb0F_RR6EpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454657045018-67u0jlga0tct9kag44t17p320ckfpibf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
